@@ -115,4 +115,4 @@ Set this to true to enable the refresh icon, by default this is treated as false
 This is the central object to pass data to the widget, this object passes the config data and layout properties if the graphType is “exploratory”.
 NOTE 
 This object is different in case the graphType is “normal”
-As of now the normal option is not used as all graphs are expected to be exploratory.
+As of now the normal option is not used, as all graphs are expected to be exploratory.
